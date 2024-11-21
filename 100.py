@@ -13,5 +13,8 @@ def wait_for_print():
     sleep(3) # in sec.
     print("Hello World")
 
+
+print("This is the first change after GIT commited")
 wait_for_print()
 print("Hello World")
+# TODO: fbrd
